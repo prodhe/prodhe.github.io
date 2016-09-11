@@ -1,0 +1,27 @@
+/* style-bs.css - for bootstrap version */
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    padding-top: 1em;
+    /*background-color: #efefef;*/
+}
+
+.list-group-item:hover {
+    background-color: #efefef;
+}
+.list-group-item.ui-draggable-dragging {
+    width: 90%;
+    background-color: #efefef;
+}
+
+#userlist {
+    min-height: 10em;
+}
+
+.item-ignore {
+    text-decoration: line-through;
+    font-weight: bold;
+}
